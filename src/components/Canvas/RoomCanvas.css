@@ -1,0 +1,10 @@
+.canvas-wrapper {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+}
+
+.canvas-wrapper canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
